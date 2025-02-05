@@ -25,7 +25,8 @@ Besides, it is also easy to run `./classification.py` directly to perform node c
 
 ## Citation
 If you find the code useful for your research, we kindly request to consider citing our work:
->@article{wu2025novel,
+```
+@article{wu2025novel,
   title={A novel robust integrating method by high-order proximity for self-supervised attribute network embedding},
   author={Wu, Zelong and Wang, Yidan and Hu, Kaixia and Lin, Guoliang and Xu, Xinwei},
   journal={Expert Systems with Applications},
@@ -34,3 +35,4 @@ If you find the code useful for your research, we kindly request to consider cit
   year={2025},
   publisher={Elsevier}
 }
+```
