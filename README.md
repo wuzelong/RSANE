@@ -1,4 +1,5 @@
 # A Novel Robust Integrating Method by High-order Proximity for Self-supervised Attribute Network Embedding
+[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.eswa.2024.125911-green?logo=doi)](https://doi.org/10.1016/j.eswa.2024.125911)
 
 ## Abstract
 ![framework](https://github.com/user-attachments/assets/50c20bd0-14ed-4b94-8cd4-348dc6829c7a)
